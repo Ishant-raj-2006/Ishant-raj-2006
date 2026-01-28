@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>• Android app development  <br>• Web projects using HTML, CSS, JavaScript  <br>• Small Python-based tools and projects  <br><br>👯 I’m looking to collaborate on  <br>• Open-source projects  <br>• Android apps  <br>• Beginner-friendly web or Python projects  <br><br>🤝 I’m looking for help with  <br>• Advanced Python concepts  <br>• Backend development  <br>• Real-world project experience  <br><br>🌱 I’m currently learning  <br>• Python  <br>• Java  <br>• Data Structures & Algorithms  <br>• Web Development  <br><br>💬 Ask me about  <br>• Python basics  <br>• Android development  <br>• Git & GitHub  <br>• College tech projects  <br><br>⚡ Fun fact  <br>• I love turning ideas into code and learning new tech every day 🚀
+🔭 Working on Android & Python projects  
+🌱 Learning DSA, Web Dev & Backend  
+👯 Open to collaborate on open-source  
+💬 Ask me about Python & Android  
+⚡ Fun fact: I code more than I sleep 😄⚡ Fun fact  <br>• I love turning ideas into code and learning new tech every day 🚀
 
 
 ## 🌐 Socials:
