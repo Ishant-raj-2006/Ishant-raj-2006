@@ -2,7 +2,7 @@
 🔭 Working on Android & Python projects  
 🌱 Learning DSA, Web Dev & Backend  
 👯 Open to collaborate on open-source  
-💬 Ask me about Python & Android  
+💬 Ask me about C,Java,JS,HTML ,Css ,Python & basic Android  
 ⚡ Fun fact: I code more than I sleep 😄⚡ Fun fact  <br>• I love turning ideas into code and learning new tech every day 🚀
 
 
