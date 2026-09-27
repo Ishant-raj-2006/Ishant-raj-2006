@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Ishant-raj-2006's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 🔭 Working on Android & Python projects  
 🌱 Learning DSA, Web Dev & Backend  
